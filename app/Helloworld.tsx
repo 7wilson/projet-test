@@ -3,7 +3,7 @@ const HelloWord = ()=>{
 
 
     return (
-        <h1>Hello word from SENEGAL </h1>
+        <h1>Hello word from SENEGAL Land </h1>
     )
 }
 
